@@ -1,12 +1,15 @@
 SMODS.Challenge {
     key = 'yummy_1',
-    rules = {},
     jokers = {
         { id = "j_ring_master", eternal = "true", edition = "negative" }
+    },
+    banned_tags = {
+        { id = 'tag_rare' },
     },
     restrictions = {
         banned_cards = {
             { id = "c_soul" },
+            { id = "c_wraith" },
             { id = "j_walkie_talkie"},
             { id = "j_trousers"},
             { id = "j_joker" },
@@ -148,7 +151,10 @@ SMODS.Challenge {
             { id = "j_yorick" },
             { id = "j_chicot" },
             { id = "j_perkeo" },
-        }
+        },
+        banned_tags = {
+            { id = 'tag_rare' },
+        },
     }
 }
 
