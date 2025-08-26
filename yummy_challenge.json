@@ -1,0 +1,16 @@
+ {
+	"id": "yummy_challenge",
+	"name": "Yummy Challenge",
+	"author": ["ProHaker"],
+	"description": "A mod that adds a delicious challenge :3",
+	"prefix": "yumc",
+	"main_file": "main.lua",
+	"priority": -20,
+	"badge_colour": "FF230A",
+	"badge_text_colour": "ABC123",
+	"display_name": "YUM",
+	"version": "1.0.0",
+	"dependencies": [],
+	"provides": [],
+	"dump_loc": false
+ }      
