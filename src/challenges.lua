@@ -151,10 +151,7 @@ SMODS.Challenge {
             { id = "j_yorick" },
             { id = "j_chicot" },
             { id = "j_perkeo" },
-        },
-        banned_tags = {
-            { id = 'tag_rare' },
-        },
+        }
     }
 }
 
