@@ -7,10 +7,11 @@
 	"main_file": "main.lua",
 	"priority": -20,
 	"badge_colour": "FF230A",
-	"badge_text_colour": "ABC123",
-	"display_name": "YUM",
+	"badge_text_colour": "FFFFFF",
 	"version": "1.0.0",
-	"dependencies": [],
-	"provides": [],
-	"dump_loc": false
+	"dependencies": [
+        "Steamodded (>=1.*~)",
+        "Lovely (>=0.8)",
+		"Balatro (==1.0.1o-FULL)"
+    ]
  }      
